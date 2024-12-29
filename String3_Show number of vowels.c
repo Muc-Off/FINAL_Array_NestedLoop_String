@@ -2,6 +2,7 @@
 Input word show number of vowels
 */
 #include <stdio.h>
+#include <string.h>
 int main(){
 char x[100];
 int p,i,d=0,c=0;
