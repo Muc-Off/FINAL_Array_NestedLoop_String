@@ -2,6 +2,7 @@
 Display number of upper case & lower case
 */
 #include <stdio.h>
+#include <string.h>
 int main(){
 char x[100];
 int p,i,d=0,c=0;
