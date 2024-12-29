@@ -2,6 +2,7 @@
 Show Full Upper Case. Apple==APPLE
 */
 #include <stdio.h>
+#include <string.h>
 int main(){
 char x[100];
 int p,i,c=0;
